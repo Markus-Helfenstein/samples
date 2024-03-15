@@ -1,2 +1,2 @@
 # samples
-some programming samples
+some personal programming samples
